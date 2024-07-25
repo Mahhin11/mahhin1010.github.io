@@ -1,5 +1,4 @@
 ## 👋 Hello there, I'm Mahhin!
-![Creative Art](images/Creative art img.png){: .align-right width="300px"}
 
 👨‍💻 I'm a 5th semester Computer Science student, eagerly looking to step into the professional world as a Junior Data Analyst. My journey so far has been a blend of academic learning and hands-on experience in data analysis.
 
@@ -32,7 +31,7 @@
 - Built a pipeline for cleaning and standardizing Roman Urdu datasets, enhancing data consistency for analysis.
 
 <div style="text-align: center;">
-  <img src="images\MinimalHate.png" style="margin: 0 auto; width: 500px; height: 300px;" />
+  <img src="images\MinimalHate.png" style="margin: 0 auto;" />
 </div>
 
 
@@ -72,5 +71,5 @@
 - Enhanced data quality and prepared datasets for comprehensive analysis and reporting.
 
 <div style="text-align: center;">
-  <img src="images/Housing Scheme_1_11zon.jpeg" style="margin: 0 auto; width: 500px; height: 300px;" />
+  <img src="images\BERT-classification.png" style="margin: 0 auto; width: 500px; height: 300px;" />
 </div>
