@@ -35,14 +35,15 @@
 </div>
 
 
-## Data Science Job Market EDA
+## Data Analytics Job Survey Analysis with Power BI
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/data-science-job-market-eda)
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-1DA1F2?logo=medium)](https://medium.com/@mahhinshahzad/data-analytics-job-survey-analysis-with-power-bi-dc7fbd7cf1a4)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mahhin1010/Data-Analytics-Job-Survey-Analysis)
 
-**Data Science Job Market EDA:** Exploring the Data Science Job Market.
-- Utilized Python to analyze 7000 data science job listings and gain insights on what it takes to land a job in analytics.
-- Implemented Regex techniques to comb through the job descriptions and identified the key requirements.
-- Aggregated and visualized the data using pandas, matplotlib, and wordcloud to compile a professional report.
+- Created an in-depth analysis of data-related jobs, with a particular focus on data analytics roles.
+- Implemented DAX queries to analyze and visualize rating questions, providing deeper insights into job satisfaction levels.
+- Conducted an in-depth analysis of the top priorities for the highest-earning individuals in the data analytics field.
+- Visualized various textual aspects of the survey data, making it easier to comprehend and derive insights.
 
 <div style="text-align: center;">
   <img src="images\jobmarket.png" style="margin: 0 auto; width: 500px; height: 300px;" />
