@@ -24,10 +24,9 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/hate-speech-analysis)
 
 **Hate Speech Data Analysis:** Analyzing and categorizing hate speech data using various NLP techniques.
-- Utilized ChatGPT-4.0 for multi-verification tagging and conducted EDA to load and transform multiple datasets using Pandas.
-- Performed lexical normalization of complex Roman Urdu language data, ensuring consistency and accuracy for analysis.
+- Utilized **ChatGPT-4.0** for multi-verification tagging and conducted EDA to load and transform multiple datasets using Pandas.
+- Performed **lexical normalization** of complex Roman Urdu language data, ensuring consistency and accuracy for analysis.
 - Applied NLP techniques with Python to identify and categorize hate speech patterns.
-- Generated detailed visualizations with Matplotlib.
 - Built a pipeline for cleaning and standardizing Roman Urdu datasets, enhancing data consistency for analysis.
 
 <div style="text-align: center;">
@@ -37,16 +36,17 @@
 
 ## Data Analytics Job Survey Analysis with Power BI
 
-[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-1DA1F2?logo=medium)](https://medium.com/@mahhinshahzad/data-analytics-job-survey-analysis-with-power-bi-dc7fbd7cf1a4)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mahhin1010/Data-Analytics-Job-Survey-Analysis)
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-1DA1F2?logo=medium&color=black)](https://medium.com/@mahhinshahzad/data-analytics-job-survey-analysis-with-power-bi-dc7fbd7cf1a4)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-FF4500?logo=GitHub&color=FF4500)](https://github.com/Mahhin1010/Data-Analytics-Job-Survey-Analysis)
+
 
 - Created an in-depth analysis of data-related jobs, with a particular focus on data analytics roles.
 - Implemented DAX queries to analyze and visualize rating questions, providing deeper insights into job satisfaction levels.
-- Conducted an in-depth analysis of the top priorities for the highest-earning individuals in the data analytics field.
-- Visualized various textual aspects of the survey data, making it easier to comprehend and derive insights.
+- Conducted an in-depth analysis of the **top priorities** for the highest-earning individuals in the data field.
+- Visualized various  complex **textual aspects** of the survey data, making it easier to comprehend and derive insights.
 
 <div style="text-align: center;">
-  <img src="images\jobmarket.png" style="margin: 0 auto; width: 500px; height: 300px;" />
+  <img src="images\jobmarket.png" style="margin: 0 auto;" />
 </div>
 
 ## Walmart Sales Analysis
