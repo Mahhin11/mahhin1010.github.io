@@ -24,10 +24,10 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/hate-speech-analysis)
 
 **Hate Speech Data Analysis:** Analyzing and categorizing hate speech data using various NLP techniques.
-- Leveraged **ChatGPT-4O** for multi-verification tagging, followed by a complete **distribution analysis** (Check linked notebook above)
-- Performed **lexical normalization** of complex Roman Urdu language data, ensuring consistency and accuracy for in-depth analysis.
-- Conducted extensive *thematic research* and applied **NLP techniques** with Python to identify, categorize, and extract patterns from hate speech sentences.
-- Built an **Effective Script** for cleaning and standardizing Roman Urdu datasets, significantly enhancing data consistency for analysis.
+- Leveraged ChatGPT-4O for multi-verification tagging, followed by a complete **distribution analysis** (Check linked notebook above)
+- Performed *lexical normalization* of complex Roman Urdu language data, ensuring consistency and accuracy for in-depth analysis.
+- Conducted extensive *thematic research* and applied **NLP** techniques  with Python to identify, categorize, and extract patterns from hate speech sentences.
+- Built an **Effective Pipeline** for cleaning and standardizing Roman Urdu datasets, significantly enhancing data consistency for analysis.
 
 <div style="text-align: center;">
   <img src="images\MinimalHate.png" style="margin: 0 auto;" />
@@ -62,15 +62,4 @@
 </div>
 
 
-## Data Cleaning in SQL
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/data-cleaning-sql)
-
-**Data Cleaning in SQL:** Data cleaning processes using advanced SQL functions.
-- Full on Data Cleaning with Beginner to Advanced Functions in SQL Server.
-- Implemented data transformation and cleaning processes using advanced SQL functions.
-- Enhanced data quality and prepared datasets for comprehensive analysis and reporting.
-
-<div style="text-align: center;">
-  <img src="images\BERT-classification.png" style="margin: 0 auto; width: 500px; height: 300px;" />
-</div>
