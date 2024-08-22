@@ -20,14 +20,14 @@
 # Projects
 
 ## Hate Speech Data Analysis
-
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects/TagAnalysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/hate-speech-analysis)
 
 **Hate Speech Data Analysis:** Analyzing and categorizing hate speech data using various NLP techniques.
-- Utilized **ChatGPT-4.0** for multi-verification tagging and conducted EDA to load and transform multiple datasets using Pandas.
-- Performed **lexical normalization** of complex Roman Urdu language data, ensuring consistency and accuracy for analysis.
-- Applied NLP techniques with Python to identify and categorize hate speech patterns.
-- Built a pipeline for cleaning and standardizing Roman Urdu datasets, enhancing data consistency for analysis.
+- Leveraged **ChatGPT-4O** for multi-verification tagging, followed by a complete **distribution analysis** (Check linked notebook above)
+- Performed **lexical normalization** of complex Roman Urdu language data, ensuring consistency and accuracy for in-depth analysis.
+- Conducted extensive *thematic research* and applied **NLP techniques** with Python to identify, categorize, and extract patterns from hate speech sentences.
+- Built an **Effective Script** for cleaning and standardizing Roman Urdu datasets, significantly enhancing data consistency for analysis.
 
 <div style="text-align: center;">
   <img src="images\MinimalHate.png" style="margin: 0 auto;" />
