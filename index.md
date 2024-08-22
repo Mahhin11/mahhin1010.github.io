@@ -51,11 +51,12 @@
 
 ## Walmart Sales Analysis
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/walmart-sales-analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mahhin1010/Walmart-Sales-Analysis-)
 
 **Walmart Sales Analysis:** Analyzing sales data for Walmart branches to optimize sales strategies.
-- Utilized advanced Joins and views to extract data from five Walmart branches.
+- Utilized **advanced Joins** and views to extract data from five Walmart branches.
 - Applied complex SQL functions for data aggregation and filtering, improving the reporting process.
+- Used Various **Window** Functions and CTE'S  in the process 
 - Created detailed visualizations with Python using Matplotlib and Seaborn, highlighting sales trends and key insights to optimize sales strategies.
 
 <center><img src="images\HousingSchememinmal.png"/></center>
