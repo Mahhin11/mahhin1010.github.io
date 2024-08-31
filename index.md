@@ -1,4 +1,5 @@
-## 👋 Hello there, I'm Mahhin!
+
+## 👋 Hello there, I'm Mahhin! 
 
 👨‍💻 I'm a 5th semester Computer Science student, eagerly looking to step into the professional world as a Junior Data Analyst. My journey so far has been a blend of academic learning and hands-on experience in data analysis.
 
@@ -9,29 +10,37 @@
 🌟 I'm excited to connect with professionals and opportunities in the data analytics realm. Let's transform data together and make impactful decisions!
 
 
-
-- Over the past 8 months, I have created multiple data projects, both self-initiated and paid, to hone my skills and gain practical experience.
-- Utilized Python to analyze 7000 data science job listings and gain insights on what it takes to land a job in analytics.
-- Implemented Regex techniques to comb through the job descriptions and identified the key requirements.
-- Aggregated and visualized the data using pandas, matplotlib, and wordcloud to compile a professional report.
-- Recently, I worked on an NLP project that involved using Regex and NLP techniques to prepare data for modeling, enhancing data quality and consistency.
-
 --- 
 # Projects
 
-## Hate Speech Data Analysis
+## Hate Speech Data Analysis with Python 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects/TagAnalysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/hate-speech-analysis)
 
-**Hate Speech Data Analysis:** Analyzing and categorizing hate speech data using various NLP techniques.
-- Leveraged ChatGPT-4O for multi-verification tagging, followed by a complete **distribution analysis** (Check linked notebook above)
-- Performed *lexical normalization* of complex Roman Urdu language data, ensuring consistency and accuracy for in-depth analysis.
-- Conducted extensive *thematic research* and applied **NLP** techniques  with Python to identify, categorize, and extract patterns from hate speech sentences.
-- Built an **Effective Pipeline** for cleaning and standardizing Roman Urdu datasets, significantly enhancing data consistency for analysis.
+- Developed a comprehensive Python project using **7+ major** libraries (Pandas, Matplotlib, NLTK, Gensim, re, NetworkX, etc.).
+- Depicted complex Roman Urdu language with advanced techniques to make **intricate patterns** and meanings *visually clear* and understandable.
+- Built a **pipeline** for cleaning and standardizing Roman Urdu/Hindi multi-labeled datasets.
+- Conducted label distribution analysis and visualized Top Label  with **word clouds**.
+- Trained **Word2Vec** embedding models and visualized embeddings with Matplotlib and **Plotly**.
+- Open *Notebook too* Check out Everything .
 
 <div style="text-align: center;">
   <img src="images\MinimalHate.png" style="margin: 0 auto;" />
 </div>
+
+##  Enhanced Coffee Shop Sales Dashboard in Excel
+[![LinkedIn post](https://img.shields.io/badge/LinkedIn-Check_Post-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/posts/mahhinshahzad_microsoftexcel-datatransformation-exceldashboard-activity-7233992607159246848-ky5i?utm_source=share&utm_medium=member_desktop)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-FF4500?logo=GitHub&color=FF4500)](https://github.com/mahhin1010/hate-speech-analysis)
+
+
+- Used advanced Excel lookup functions such as **XLOOKUP** and *INDEX-MATCH* to smoothly merge data from Multiple sheets
+- Advanced visualizations, such as **filled maps** and *scatter plots*, were created to effectively depict branch performance across multiple nations while offering a clear geographic perspective.
+- Discovered recurring patterns, leading to *strategic recommendations* to reduce **churn** and boost **profits** (Check out **LinkedIn** post to see them all )
+
+<div style="text-align: center;">
+  <img src="images\Coffe Shop image.png" style="margin: 0 auto;" />
+</div>
+
 
 
 ## Data Analytics Job Survey Analysis with Power BI
@@ -60,7 +69,7 @@
 - Created detailed visualizations with Python using Matplotlib and Seaborn, highlighting sales trends and key insights to optimize sales strategies.
 
 <center><img src="images\HousingSchememinmal.png"/></center>
-</div>
+
 
 
 
