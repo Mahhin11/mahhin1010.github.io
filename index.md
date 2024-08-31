@@ -21,7 +21,7 @@
 - Depicted complex Roman Urdu language with advanced techniques to make **intricate patterns** and meanings *visually clear* and understandable.
 - Built a **pipeline** for cleaning and standardizing Roman Urdu/Hindi multi-labeled datasets.
 - Conducted label distribution analysis and visualized Top Label  with **word clouds**.
-- Trained **Word2Vec** embedding models and visualized embeddings with Matplotlib and **Plotly**.
+- Trained *Word2Vec* embedding models and visualized embeddings with Matplotlib and **Plotly**.
 - Open *Notebook too* Check out Everything .
 
 <div style="text-align: center;">
