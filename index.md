@@ -18,7 +18,9 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/hate-speech-analysis)
 
 - Developed a comprehensive Python project using **7+ major** libraries (Pandas, Matplotlib, NLTK, Gensim, re, NetworkX, etc.).
+
 - Depicted complex Roman Urdu language with advanced techniques to make **intricate patterns** and meanings *visually clear* and understandable.
+
 - Built a **pipeline** for cleaning and standardizing Roman Urdu/Hindi multi-labeled datasets.
 - Conducted label distribution analysis and visualized Top Label  with **word clouds**.
 - Trained *Word2Vec* embedding models and visualized embeddings with Matplotlib and **Plotly**.
@@ -28,13 +30,17 @@
   <img src="images\MinimalHate.png" style="margin: 0 auto;" />
 </div>
 
+--- 
+
 ##  Enhanced Coffee Shop Sales Dashboard in Excel
 [![LinkedIn post](https://img.shields.io/badge/LinkedIn-Check_Post-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/posts/mahhinshahzad_microsoftexcel-datatransformation-exceldashboard-activity-7233992607159246848-ky5i?utm_source=share&utm_medium=member_desktop)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-FF4500?logo=GitHub&color=FF4500)](https://github.com/mahhin1010/hate-speech-analysis)
 
 
 - Used advanced Excel lookup functions such as **XLOOKUP** and *INDEX-MATCH* to smoothly merge data from Multiple sheets
+
 - Advanced visualizations, such as **filled maps** and *scatter plots*, were created to effectively depict branch performance across multiple nations while offering a clear geographic perspective.
+
 - Discovered recurring patterns, leading to *strategic recommendations* to reduce **churn** and boost **profits** (Check out **LinkedIn** post to see them all )
 
 <div style="text-align: center;">
@@ -42,6 +48,7 @@
 </div>
 
 
+---
 
 ## Data Analytics Job Survey Analysis with Power BI
 
@@ -51,6 +58,7 @@
 
 - Created an in-depth analysis of data-related jobs, with a particular focus on data analytics roles.
 - Implemented DAX queries to analyze and visualize rating questions, providing deeper insights into job satisfaction levels.
+
 - Conducted an in-depth analysis of the **top priorities** for the highest-earning individuals in the data field.
 - Visualized various  complex **textual aspects** of the survey data, making it easier to comprehend and derive insights.
 
