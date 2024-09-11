@@ -12,24 +12,6 @@
 
 --- 
 # Projects
-//projects\Stock Analysis.html
-## S&P 500 Comprehensive Recent Stocks Analysis 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects\Stock Analysis.html)
-[![Download Dashboard](https://img.shields.io/badge/PowerBi-Dashboard-FFC107?logo=tableau&logoColor=white)](https://github.com/mahhin1010/hate-speech-analysis)
-
-- Conducted in-depth analysis of top S&P 500 tech companies (2014-2019) using fundamental, quantitative, and technical approaches.
-
-- Performed extensive EDA on recent changes, computing metrics and values, and executed 7+ time series analyses (volatility, risk, PE ratios, moving averages).
-
-- Developed a live, dynamic candlestick dashboard for stocks and ETFs, offering real-time insights and dynamic visualizations.
-
-- Open Notebook to Checkout the Analysis in depth
-
-<div style="text-align: center;">
-  <img src="images\Man_Stock_Round.png" style="margin: 0 auto;" />
-</div>
-
----
 
 ## Hate Speech Data Analysis with Python 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects/TagAnalysis.html)
@@ -49,6 +31,24 @@
 </div>
 
 --- 
+
+## S&P 500 Comprehensive Recent Stocks Analysis 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects\Stock Analysis.html)
+[![Download Dashboard](https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white)](https://github.com/mahhin1010/hate-speech-analysis)
+
+- Conducted in-depth analysis of top S&P 500 tech companies (**2014-2019**) using fundamental, quantitative, and technical approaches.
+
+- Performed extensive EDA on recent changes, computing metrics and values, and executed 7+ **time series** analyses (volatility, risk, *PE ratios*, moving averages).
+
+- Developed a live, dynamic **candlestick dashboard** for stocks and ETFs, offering real-time insights and dynamic visualizations.
+
+- Open **Notebook** to Checkout the Analysis in depth
+
+<div style="text-align: center;">
+  <img src="images\Man_Stock_Round.png" style="margin: 0 auto;" />
+</div>
+
+---
 
 ##  Enhanced Coffee Shop Sales Dashboard in Excel
 [![LinkedIn post](https://img.shields.io/badge/LinkedIn-Check_Post-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/posts/mahhinshahzad_microsoftexcel-datatransformation-exceldashboard-activity-7233992607159246848-ky5i?utm_source=share&utm_medium=member_desktop)
