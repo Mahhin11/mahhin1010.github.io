@@ -36,9 +36,9 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects\Stock Analysis.html)
 [![Download Dashboard](https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white)](https://github.com/mahhin1010/hate-speech-analysis)
 
-- Conducted in-depth analysis of top S&P 500 tech companies (**2014-2019**) using fundamental, quantitative, and technical approaches.
+- Conducted in-depth analysis of top S&P 500 tech companies (**2019-2024**) using fundamental, quantitative, and technical approaches.
 
-- Performed extensive EDA on recent changes, computing metrics and values, and executed 7+ **time series** analyses (volatility, risk, *PE ratios*, moving averages).
+- Performed extensive EDA on recent changes, computing metrics and values, and executed 7+ **time series** analyses (volatility, risk, *PE ratios*, moving averages and *many more*).
 
 - Developed a live, dynamic **candlestick dashboard** for stocks and ETFs, offering real-time insights and dynamic visualizations.
 
