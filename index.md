@@ -33,8 +33,14 @@
 --- 
 
 ## S&P 500 Comprehensive Recent Stocks Analysis 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects\Stock Analysis.html)
-[![Download Dashboard](https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white)](https://github.com/mahhin1010/hate-speech-analysis)
+<div style="display: inline;">
+  <a href="projects/Stock Analysis.html" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter" alt="Open Notebook">
+  </a>
+  <a href="https://github.com/mahhin1010/hate-speech-analysis">
+    <img src="https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white" alt="Download Dashboard">
+  </a>
+</div>
 
 - Conducted in-depth analysis of top S&P 500 tech companies (**2019-2024**) using fundamental, quantitative, and technical approaches.
 
