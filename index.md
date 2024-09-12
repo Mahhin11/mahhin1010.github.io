@@ -14,7 +14,7 @@
 # Projects
 
 ## Hate Speech Data Analysis with Python 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: inline;">
   <a href="projects/TagAnalysis.html" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter" alt="Open Notebook">
   </a>
@@ -63,7 +63,7 @@
 ---
 
 ##  Enhanced Coffee Shop Sales Dashboard in Excel
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: inline;">
   <a href="https://www.linkedin.com/posts/mahhinshahzad_microsoftexcel-datatransformation-exceldashboard-activity-7233992607159246848-ky5i?utm_source=share&utm_medium=member_desktop" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Check_Post-0A66C2?logo=LinkedIn&logoColor=white" alt="LinkedIn Post">
   </a>
