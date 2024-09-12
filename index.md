@@ -13,6 +13,29 @@
 --- 
 # Projects
 
+## S&P 500 Comprehensive Recent Stocks Analysis 
+<div style="display: inline;">
+  <a href="projects/Stock Analysis.html" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter" alt="Open Notebook">
+  </a>
+  <a href="https://github.com/mahhin1010/hate-speech-analysis">
+    <img src="https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white" alt="Download Dashboard">
+  </a>
+</div>
+
+- Conducted in-depth analysis of top S&P 500 tech companies (**2019-2024**) using fundamental, quantitative, and technical approaches.
+
+- Performed extensive EDA on recent changes, computing metrics and values, and executed 7+ **time series** analyses (volatility, risk, *PE ratios*, moving averages and *many more*).
+
+- Developed a live, dynamic **candlestick dashboard** for stocks and ETFs, offering real-time insights and dynamic visualizations.
+
+- Open **Notebook** to Checkout the Analysis in depth
+
+<div style="text-align: center;">
+  <img src="images\Man_Stock_Round.png" style="margin: 0 auto;" />
+</div>
+
+---
 ## Hate Speech Data Analysis with Python 
 <div style="display: inline;">
   <a href="projects/TagAnalysis.html" target="_blank">
@@ -37,30 +60,6 @@
 </div>
 
 --- 
-
-## S&P 500 Comprehensive Recent Stocks Analysis 
-<div style="display: inline;">
-  <a href="projects/Stock Analysis.html" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter" alt="Open Notebook">
-  </a>
-  <a href="https://github.com/mahhin1010/hate-speech-analysis">
-    <img src="https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white" alt="Download Dashboard">
-  </a>
-</div>
-
-- Conducted in-depth analysis of top S&P 500 tech companies (**2019-2024**) using fundamental, quantitative, and technical approaches.
-
-- Performed extensive EDA on recent changes, computing metrics and values, and executed 7+ **time series** analyses (volatility, risk, *PE ratios*, moving averages and *many more*).
-
-- Developed a live, dynamic **candlestick dashboard** for stocks and ETFs, offering real-time insights and dynamic visualizations.
-
-- Open **Notebook** to Checkout the Analysis in depth
-
-<div style="text-align: center;">
-  <img src="images\Man_Stock_Round.png" style="margin: 0 auto;" />
-</div>
-
----
 
 ##  Enhanced Coffee Shop Sales Dashboard in Excel
 <div style="display: inline;">
