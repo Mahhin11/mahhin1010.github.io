@@ -63,8 +63,14 @@
 ---
 
 ##  Enhanced Coffee Shop Sales Dashboard in Excel
-[![LinkedIn post](https://img.shields.io/badge/LinkedIn-Check_Post-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/posts/mahhinshahzad_microsoftexcel-datatransformation-exceldashboard-activity-7233992607159246848-ky5i?utm_source=share&utm_medium=member_desktop)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-FF4500?logo=GitHub&color=FF4500)](https://github.com/mahhin1010/hate-speech-analysis)
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <a href="https://www.linkedin.com/posts/mahhinshahzad_microsoftexcel-datatransformation-exceldashboard-activity-7233992607159246848-ky5i?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Check_Post-0A66C2?logo=LinkedIn&logoColor=white" alt="LinkedIn Post">
+  </a>
+  <a href="https://github.com/mahhin1010/hate-speech-analysis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-FF4500?logo=GitHub&color=FF4500" alt="View on GitHub">
+  </a>
+</div>
 
 
 - Used advanced Excel lookup functions such as **XLOOKUP** and *INDEX-MATCH* to smoothly merge data from Multiple sheets
