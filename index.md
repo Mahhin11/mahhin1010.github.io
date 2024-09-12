@@ -14,8 +14,14 @@
 # Projects
 
 ## Hate Speech Data Analysis with Python 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](projects/TagAnalysis.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mahhin1010/hate-speech-analysis)
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <a href="projects/TagAnalysis.html" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter" alt="Open Notebook">
+  </a>
+  <a href="https://github.com/mahhin1010/hate-speech-analysis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+  </a>
+</div>
 
 - Developed a comprehensive Python project using **7+ major** libraries (Pandas, Matplotlib, NLTK, Gensim, re, NetworkX, etc.).
 
