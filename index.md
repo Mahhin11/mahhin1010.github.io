@@ -18,7 +18,7 @@
   <a href="projects/Stock Analysis.html" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter" alt="Open Notebook">
   </a>
-  <a href="https://github.com/mahhin1010/hate-speech-analysis">
+  <a href="https://drive.google.com/uc?id=1xCOK_UsGEne-wCyDCiWsXnInx41EEBQJ&export=download">
     <img src="https://img.shields.io/badge/Download-Dashboard-E97627?logo=tableau&logoColor=white" alt="Download Dashboard">
   </a>
 </div>
